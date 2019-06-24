@@ -1,0 +1,29 @@
+{
+  "title": "程序员写作课",
+  "description": "给程序员的写作课",
+  "plugins": [
+    "theme-comscore",
+    "ga",
+    "anchors",
+    "sitemap-general",
+    "disqus"
+  ],
+  "pluginsConfig": {
+    "sitemap-general": {
+      "prefix": "http://thewriter.dev/"
+    },
+    "ga": {
+      "token": "UA-47834775-23"
+    },
+     "disqus": {
+            "shortName": "thewriter-1"
+        }
+  },
+  "links": {
+    "sidebar": {
+      "作者博客": "https://www.ixiqin.com",
+      "联系作者": "mailto:xiqingongzi+easywp@gmail.com"
+    }
+  }
+}
+
