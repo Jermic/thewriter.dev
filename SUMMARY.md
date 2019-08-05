@@ -27,15 +27,15 @@
 ### 加餐
 
 
-* 海量信息输入指南
-* 素材管理指南
-* CC 协议指南 
-* Markdown 贴图指南 
-* 大纲类工具的使用
-* 思维导图的使用
-* 移动端写作指南 
-* 文章贴代码指南 
-* 一些常见的文章写作指南 
+* [海量信息输入指南](snack/information.md)
+* [素材管理指南](snack/material.md)
+* [CC 协议指南](snack/cc.md)
+* [Markdown 贴图指南](snack/pasteimage.md) 
+* [大纲类工具的使用](snack/outliner.md)
+* [思维导图的使用](snack/mindmap.md)
+* [移动端写作指南](snack/mobile.md)
+* [文章贴代码指南](snack/pastecode.md)
+* [一些常见的文章写作指南](snack/guide.md)
 
 ## 作业
 
